@@ -1,0 +1,2128 @@
+{
+    "csv files": [
+        {
+            "food": "Milk",
+            "caloric Value": 65,
+            "Fat": 4.0,
+            "Protein": 3.3
+        },
+        {
+            "food": "Butter                                            740                                                   82 -",
+            "caloric Value": 740,
+            "Fat": 82.0,
+            "Protein": 0.0
+        },
+        {
+            "food": "chicken(roast)",
+            "caloric Value": 150,
+            "Fat": 5.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "corn flakes with milk",
+            "caloric Value": 205,
+            "Fat": 4.0,
+            "Protein": 6.5
+        },
+        {
+            "food": " cabbage boiled",
+            "caloric Value": 10,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "potato boiled",
+            "caloric Value": 80,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "bread",
+            "caloric Value": 230,
+            "Fat": 2.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "chocolate biscuits",
+            "caloric Value": 520,
+            "Fat": 28.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Apple",
+            "caloric Value": 80,
+            "Fat": 0.0,
+            "Protein": 0.0
+        },
+        {
+            "food": "Banana",
+            "caloric Value": 110,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Blueberries",
+            "caloric Value": 100,
+            "Fat": 1.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Cantaloupe",
+            "caloric Value": 50,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Cherries",
+            "caloric Value": 90,
+            "Fat": 0.5,
+            "Protein": 2.0
+        },
+        {
+            "food": "Figs (Dried)",
+            "caloric Value": 100,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Grapefruit",
+            "caloric Value": 60,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Grapes",
+            "caloric Value": 90,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Honeydew",
+            "caloric Value": 60,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Kiwi",
+            "caloric Value": 100,
+            "Fat": 1.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Lemon",
+            "caloric Value": 15,
+            "Fat": 0.0,
+            "Protein": 0.0
+        },
+        {
+            "food": "Lime",
+            "caloric Value": 20,
+            "Fat": 0.0,
+            "Protein": 0.0
+        },
+        {
+            "food": "Mango",
+            "caloric Value": 70,
+            "Fat": 0.5,
+            "Protein": 0.0
+        },
+        {
+            "food": "Nectarine",
+            "caloric Value": 70,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Orange",
+            "caloric Value": 70,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Peach",
+            "caloric Value": 40,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Pear",
+            "caloric Value": 100,
+            "Fat": 1.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Pineapple",
+            "caloric Value": 60,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Plums",
+            "caloric Value": 60,
+            "Fat": 0.0,
+            "Protein": 0.0
+        },
+        {
+            "food": "Prunes",
+            "caloric Value": 110,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Raisins",
+            "caloric Value": 130,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Raspberries",
+            "caloric Value": 60,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Strawberries",
+            "caloric Value": 45,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Tangerine",
+            "caloric Value": 50,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Watermelon",
+            "caloric Value": 80,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Butter Naan",
+            "caloric Value": 220,
+            "Fat": 6.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Paneer Butter Masala",
+            "caloric Value": 285,
+            "Fat": 21.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Chole Bhature",
+            "caloric Value": 427,
+            "Fat": 22.0,
+            "Protein": 13.0
+        },
+        {
+            "food": "Rajma Chawal",
+            "caloric Value": 330,
+            "Fat": 8.0,
+            "Protein": 11.0
+        },
+        {
+            "food": "Dal Makhani",
+            "caloric Value": 320,
+            "Fat": 12.0,
+            "Protein": 14.0
+        },
+        {
+            "food": "Aloo Paratha",
+            "caloric Value": 290,
+            "Fat": 15.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Pulao",
+            "caloric Value": 250,
+            "Fat": 6.5,
+            "Protein": 4.0
+        },
+        {
+            "food": "Kachori",
+            "caloric Value": 195,
+            "Fat": 11.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Samosa",
+            "caloric Value": 260,
+            "Fat": 17.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Baingan Bharta",
+            "caloric Value": 102,
+            "Fat": 5.0,
+            "Protein": 2.5
+        },
+        {
+            "food": "Idli",
+            "caloric Value": 39,
+            "Fat": 0.2,
+            "Protein": 2.0
+        },
+        {
+            "food": "Dosa",
+            "caloric Value": 133,
+            "Fat": 5.1,
+            "Protein": 2.7
+        },
+        {
+            "food": "Medu Vada",
+            "caloric Value": 97,
+            "Fat": 5.5,
+            "Protein": 2.0
+        },
+        {
+            "food": "Upma",
+            "caloric Value": 192,
+            "Fat": 5.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Pongal",
+            "caloric Value": 207,
+            "Fat": 7.6,
+            "Protein": 5.6
+        },
+        {
+            "food": "Sambar",
+            "caloric Value": 50,
+            "Fat": 1.8,
+            "Protein": 2.4
+        },
+        {
+            "food": "Rasam",
+            "caloric Value": 30,
+            "Fat": 0.5,
+            "Protein": 1.2
+        },
+        {
+            "food": "Uttapam",
+            "caloric Value": 130,
+            "Fat": 4.0,
+            "Protein": 3.5
+        },
+        {
+            "food": "Avial",
+            "caloric Value": 130,
+            "Fat": 4.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Curd Rice",
+            "caloric Value": 200,
+            "Fat": 8.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Idiyappam (1 piece)",
+            "caloric Value": 70,
+            "Fat": 1.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Puttu (1 piece)",
+            "caloric Value": 180,
+            "Fat": 4.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Ven Pongal (1 cup)",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Masala Dosa (1 piece)",
+            "caloric Value": 210,
+            "Fat": 8.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Adai (1 piece)",
+            "caloric Value": 150,
+            "Fat": 3.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Kuzhi Paniyaram (1 piece)",
+            "caloric Value": 50,
+            "Fat": 2.0,
+            "Protein": 1.5
+        },
+        {
+            "food": "Kadala Curry (1 cup)",
+            "caloric Value": 180,
+            "Fat": 4.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Avial (1 cup)",
+            "caloric Value": 120,
+            "Fat": 3.5,
+            "Protein": 2.0
+        },
+        {
+            "food": "Payasam (Rice, 1 cup)",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Keerai Masiyal (1 cup)",
+            "caloric Value": 90,
+            "Fat": 2.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Tomato Rice (1 cup)",
+            "caloric Value": 210,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Bisi Bele Bath (1 cup)",
+            "caloric Value": 230,
+            "Fat": 7.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Upma Kozhukattai (1 piece)",
+            "caloric Value": 100,
+            "Fat": 4.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Ragi Mudde (1 ball)",
+            "caloric Value": 80,
+            "Fat": 1.0,
+            "Protein": 2.5
+        },
+        {
+            "food": "Sevai (1 cup)",
+            "caloric Value": 190,
+            "Fat": 3.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Kozhukattai (1 piece)",
+            "caloric Value": 90,
+            "Fat": 2.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Pongal Payasam (1 cup)",
+            "caloric Value": 290,
+            "Fat": 9.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Tamarind Rice (1 cup)",
+            "caloric Value": 210,
+            "Fat": 7.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Vegetable Kurma (1 cup)",
+            "caloric Value": 170,
+            "Fat": 8.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Coconut Rice (1 cup)",
+            "caloric Value": 250,
+            "Fat": 12.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Sambhar Sadam (1 cup)",
+            "caloric Value": 200,
+            "Fat": 5.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Chakkara Pongal (1 cup)",
+            "caloric Value": 290,
+            "Fat": 9.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Neer Dosa (1 piece)",
+            "caloric Value": 80,
+            "Fat": 2.0,
+            "Protein": 1.5
+        },
+        {
+            "food": "Mysore Masala Dosa (1)",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Kootu (1 cup)",
+            "caloric Value": 120,
+            "Fat": 3.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Sundal (Chickpeas, 1 cup)",
+            "caloric Value": 180,
+            "Fat": 4.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Pathiri (1 piece)",
+            "caloric Value": 120,
+            "Fat": 2.0,
+            "Protein": 2.5
+        },
+        {
+            "food": "Vattayappam (1 piece)",
+            "caloric Value": 90,
+            "Fat": 1.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Theeyal (1 cup)",
+            "caloric Value": 160,
+            "Fat": 6.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Parotta (1 piece)",
+            "caloric Value": 300,
+            "Fat": 13.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Vegetable Stew (1 cup)",
+            "caloric Value": 150,
+            "Fat": 7.0,
+            "Protein": 2.5
+        },
+        {
+            "food": "Chettinad Chicken Curry (1 cup)",
+            "caloric Value": 250,
+            "Fat": 12.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Appalam (1 piece)",
+            "caloric Value": 35,
+            "Fat": 1.5,
+            "Protein": 1.0
+        },
+        {
+            "food": "Malabar Biryani (1 cup)",
+            "caloric Value": 300,
+            "Fat": 10.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Fish Curry (1 cup)",
+            "caloric Value": 200,
+            "Fat": 8.0,
+            "Protein": 20.0
+        },
+        {
+            "food": "Rasavangi (1 cup)",
+            "caloric Value": 110,
+            "Fat": 3.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Uppu Kozhukattai (1 piece)",
+            "caloric Value": 80,
+            "Fat": 2.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Kadalai Urundai (1 piece)",
+            "caloric Value": 90,
+            "Fat": 3.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Mutton Sukka (1 cup)",
+            "caloric Value": 300,
+            "Fat": 15.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Puliyodarai (1 cup)",
+            "caloric Value": 210,
+            "Fat": 7.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Ellu Sadam (Sesame Rice, 1 cup)",
+            "caloric Value": 250,
+            "Fat": 10.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Vazhaipoo Vadai (1 piece)",
+            "caloric Value": 80,
+            "Fat": 4.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Kozhi Varuval (1 cup)",
+            "caloric Value": 270,
+            "Fat": 14.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Kambu (Pearl Millet) Kali (1 serving)",
+            "caloric Value": 150,
+            "Fat": 4.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Karupatti Paniyaram (1 piece)",
+            "caloric Value": 120,
+            "Fat": 3.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Kathirikai (Brinjal) Curry (1 cup)",
+            "caloric Value": 140,
+            "Fat": 6.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Meen Kuzhambu (Fish Curry, 1 cup)",
+            "caloric Value": 210,
+            "Fat": 8.0,
+            "Protein": 20.0
+        },
+        {
+            "food": "Kurukku Kalan (1 cup)",
+            "caloric Value": 160,
+            "Fat": 8.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Chicken Chettinad Biryani (1 cup)",
+            "caloric Value": 320,
+            "Fat": 12.0,
+            "Protein": 18.0
+        },
+        {
+            "food": "Butter Naan (1 piece)",
+            "caloric Value": 150,
+            "Fat": 4.5,
+            "Protein": 3.0
+        },
+        {
+            "food": "Paneer Butter Masala (1 cup)",
+            "caloric Value": 320,
+            "Fat": 25.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Chole (1 cup)",
+            "caloric Value": 280,
+            "Fat": 12.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Rajma (1 cup)",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 11.0
+        },
+        {
+            "food": "Dal Tadka (1 cup)",
+            "caloric Value": 150,
+            "Fat": 6.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Aloo Paratha (1 piece)",
+            "caloric Value": 220,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Palak Paneer (1 cup)",
+            "caloric Value": 190,
+            "Fat": 13.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Baingan Bharta (1 cup)",
+            "caloric Value": 120,
+            "Fat": 7.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Puri (1 piece)",
+            "caloric Value": 100,
+            "Fat": 5.5,
+            "Protein": 2.0
+        },
+        {
+            "food": "Bhature (1 piece)",
+            "caloric Value": 150,
+            "Fat": 7.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Tandoori Chicken (1 leg piece)",
+            "caloric Value": 260,
+            "Fat": 12.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Matar Paneer (1 cup)",
+            "caloric Value": 240,
+            "Fat": 15.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Chicken Curry (1 cup)",
+            "caloric Value": 300,
+            "Fat": 14.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Kadai Paneer (1 cup)",
+            "caloric Value": 280,
+            "Fat": 20.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Malai Kofta (1 cup)",
+            "caloric Value": 360,
+            "Fat": 25.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Dal Makhani (1 cup)",
+            "caloric Value": 300,
+            "Fat": 14.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Jeera Rice (1 cup)",
+            "caloric Value": 200,
+            "Fat": 4.5,
+            "Protein": 3.0
+        },
+        {
+            "food": "Veg Biryani (1 cup)",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Samosa (1 piece)",
+            "caloric Value": 130,
+            "Fat": 7.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Kheer (Rice Pudding, 1 cup)",
+            "caloric Value": 240,
+            "Fat": 8.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Roti (1 piece)",
+            "caloric Value": 80,
+            "Fat": 0.5,
+            "Protein": 2.5
+        },
+        {
+            "food": "Paratha (Plain, 1 piece)",
+            "caloric Value": 150,
+            "Fat": 6.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Pulao (1 cup)",
+            "caloric Value": 220,
+            "Fat": 7.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Lassi (Sweet, 1 glass)",
+            "caloric Value": 260,
+            "Fat": 10.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Bhindi Masala (1 cup)",
+            "caloric Value": 140,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Pani Puri (6 pieces)",
+            "caloric Value": 150,
+            "Fat": 4.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Bhel Puri (1 plate)",
+            "caloric Value": 200,
+            "Fat": 6.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Pav Bhaji (1 plate)",
+            "caloric Value": 400,
+            "Fat": 20.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Samosa (1 piece)",
+            "caloric Value": 130,
+            "Fat": 7.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Vada Pav (1 piece)",
+            "caloric Value": 300,
+            "Fat": 15.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Chole Bhature (1 plate)",
+            "caloric Value": 450,
+            "Fat": 15.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Kachori (1 piece)",
+            "caloric Value": 200,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Dabeli (1 piece)",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Aloo Tikki (1 piece)",
+            "caloric Value": 120,
+            "Fat": 6.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Pakora (Mixed Veg, 1 cup)",
+            "caloric Value": 250,
+            "Fat": 15.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Egg Roll (1 piece)",
+            "caloric Value": 200,
+            "Fat": 10.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Chicken Momos (6 pieces)",
+            "caloric Value": 250,
+            "Fat": 6.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Veg Momos (6 pieces)",
+            "caloric Value": 210,
+            "Fat": 4.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Jalebi (1 piece)",
+            "caloric Value": 150,
+            "Fat": 5.0,
+            "Protein": 0.5
+        },
+        {
+            "food": "Dahi Puri (1 plate)",
+            "caloric Value": 200,
+            "Fat": 6.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Ragda Pattice (1 plate)",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Misal Pav (1 plate)",
+            "caloric Value": 350,
+            "Fat": 10.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Bread Pakora (1 piece)",
+            "caloric Value": 180,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Chilli Potato (1 plate)",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Aloo Chaat (1 plate)",
+            "caloric Value": 220,
+            "Fat": 6.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Sev Puri (1 plate)",
+            "caloric Value": 250,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Frankie (Veg, 1 piece)",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Tandoori Chicken Tikka (1 skewer)",
+            "caloric Value": 280,
+            "Fat": 12.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Bhutta (Grilled Corn, 1 piece)",
+            "caloric Value": 80,
+            "Fat": 1.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Gongura Pachadi",
+            "caloric Value": 120,
+            "Fat": 6.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Pesarattu",
+            "caloric Value": 150,
+            "Fat": 3.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Andhra Chicken Curry",
+            "caloric Value": 280,
+            "Fat": 14.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Kodi Vepudu (Chicken Fry)",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Ulava Charu (Horse Gram Stew)",
+            "caloric Value": 160,
+            "Fat": 4.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Andhra Mutton Curry",
+            "caloric Value": 350,
+            "Fat": 20.0,
+            "Protein": 30.0
+        },
+        {
+            "food": "Mirapakaya Bajji (Chili Fritters)",
+            "caloric Value": 200,
+            "Fat": 10.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Pulihora (Tamarind Rice)",
+            "caloric Value": 210,
+            "Fat": 7.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Gutti Vankaya (Stuffed Brinjal)",
+            "caloric Value": 170,
+            "Fat": 8.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Biryani (Andhra-style)",
+            "caloric Value": 400,
+            "Fat": 12.0,
+            "Protein": 15.0
+        },
+        {
+            "food": "Avakaya (Mango Pickle)",
+            "caloric Value": 50,
+            "Fat": 3.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Natu Kodi Pulusu (Country Chicken Curry)",
+            "caloric Value": 300,
+            "Fat": 14.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Royyala Vepudu (Prawn Fry)",
+            "caloric Value": 250,
+            "Fat": 15.0,
+            "Protein": 20.0
+        },
+        {
+            "food": "Bobbatlu (Sweet Flatbread)",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Perugu Charu (Buttermilk Soup)",
+            "caloric Value": 90,
+            "Fat": 2.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Chakkara Pongal",
+            "caloric Value": 290,
+            "Fat": 9.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Andhra-style Dondakaya Fry (Ivy Gourd)",
+            "caloric Value": 150,
+            "Fat": 6.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Pachimirchi Chicken",
+            "caloric Value": 280,
+            "Fat": 12.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Rasam",
+            "caloric Value": 60,
+            "Fat": 1.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Payasam (Jaggery-based)",
+            "caloric Value": 300,
+            "Fat": 8.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Sushi",
+            "caloric Value": 200,
+            "Fat": 5.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Spaghetti Carbonara",
+            "caloric Value": 350,
+            "Fat": 15.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Tacos",
+            "caloric Value": 250,
+            "Fat": 10.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Shawarma",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 15.0
+        },
+        {
+            "food": "Falafel",
+            "caloric Value": 220,
+            "Fat": 11.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Ramen",
+            "caloric Value": 450,
+            "Fat": 18.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Pad Thai",
+            "caloric Value": 350,
+            "Fat": 12.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Hummus",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Risotto",
+            "caloric Value": 300,
+            "Fat": 10.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Dumplings",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Nachos with Cheese",
+            "caloric Value": 310,
+            "Fat": 18.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Gnocchi",
+            "caloric Value": 250,
+            "Fat": 6.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "BBQ Ribs",
+            "caloric Value": 400,
+            "Fat": 22.0,
+            "Protein": 30.0
+        },
+        {
+            "food": "Ceviche",
+            "caloric Value": 200,
+            "Fat": 3.0,
+            "Protein": 20.0
+        },
+        {
+            "food": "Paella",
+            "caloric Value": 350,
+            "Fat": 10.0,
+            "Protein": 15.0
+        },
+        {
+            "food": "Beef Stroganoff",
+            "caloric Value": 400,
+            "Fat": 18.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Fried Rice",
+            "caloric Value": 300,
+            "Fat": 10.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Pizza Margherita",
+            "caloric Value": 270,
+            "Fat": 9.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Chocolate Fondue",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Roast Chicken",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 35.0
+        },
+        {
+            "food": "Grilled Fish",
+            "caloric Value": 220,
+            "Fat": 5.0,
+            "Protein": 30.0
+        },
+        {
+            "food": "Veggie Stir-Fry",
+            "caloric Value": 200,
+            "Fat": 6.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Fried Calamari",
+            "caloric Value": 300,
+            "Fat": 15.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Cheesecake",
+            "caloric Value": 350,
+            "Fat": 22.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Shepherd\u2019s Pie",
+            "caloric Value": 320,
+            "Fat": 15.0,
+            "Protein": 20.0
+        },
+        {
+            "food": "Chocolate Cake",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Cheesecake",
+            "caloric Value": 450,
+            "Fat": 32.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Ice Cream",
+            "caloric Value": 150,
+            "Fat": 12.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Brownie",
+            "caloric Value": 200,
+            "Fat": 12.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Apple Pie",
+            "caloric Value": 250,
+            "Fat": 13.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Donut",
+            "caloric Value": 200,
+            "Fat": 15.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Cupcake",
+            "caloric Value": 200,
+            "Fat": 12.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Pudding",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Gulab Jamun",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Jalebi",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Rasgulla",
+            "caloric Value": 150,
+            "Fat": 4.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Barfi",
+            "caloric Value": 200,
+            "Fat": 12.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Kheer",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Ladoo",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Halwa",
+            "caloric Value": 200,
+            "Fat": 15.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Pedha",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Gulab Jamun",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Jalebi",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Rasgulla",
+            "caloric Value": 150,
+            "Fat": 4.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Gajar ka Halwa",
+            "caloric Value": 200,
+            "Fat": 12.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Khoya/Mawa",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Ladoo (Besan or Motichur)",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Petha",
+            "caloric Value": 100,
+            "Fat": 5.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Chum Chum",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Payasam",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Kesari (Sooji Halwa)",
+            "caloric Value": 200,
+            "Fat": 12.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Adirasam",
+            "caloric Value": 200,
+            "Fat": 12.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Rava Ladoo",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Baked Mysore Pak",
+            "caloric Value": 250,
+            "Fat": 15.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Pongal (Sweet)",
+            "caloric Value": 150,
+            "Fat": 8.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Thiruvadirai Kali",
+            "caloric Value": 250,
+            "Fat": 12.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Coconut Burfi",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Bhujia (Sev Bhujia)",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Samosa",
+            "caloric Value": 150,
+            "Fat": 12.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Papad",
+            "caloric Value": 50,
+            "Fat": 3.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Chivda",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Aloo Tikki",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Mathri",
+            "caloric Value": 120,
+            "Fat": 8.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Kachori",
+            "caloric Value": 200,
+            "Fat": 15.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Moong Dal Chaat",
+            "caloric Value": 100,
+            "Fat": 7.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Biryani",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Dal Tadka with Rice",
+            "caloric Value": 250,
+            "Fat": 10.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Chole Bhature",
+            "caloric Value": 500,
+            "Fat": 20.0,
+            "Protein": 11.0
+        },
+        {
+            "food": "Aloo Paratha with Curd",
+            "caloric Value": 350,
+            "Fat": 12.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Paneer Butter Masala with Naan",
+            "caloric Value": 600,
+            "Fat": 27.0,
+            "Protein": 18.0
+        },
+        {
+            "food": "Butter Chicken with Rice",
+            "caloric Value": 500,
+            "Fat": 18.0,
+            "Protein": 17.0
+        },
+        {
+            "food": "Masoor Dal with Chapati",
+            "caloric Value": 300,
+            "Fat": 10.0,
+            "Protein": 14.0
+        },
+        {
+            "food": "Pulao with Raita",
+            "caloric Value": 375,
+            "Fat": 12.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Akki Roti (Rice Roti)",
+            "caloric Value": 175,
+            "Fat": 6.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Mysore Pak",
+            "caloric Value": 250,
+            "Fat": 14.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Chitranna (Lemon Rice)",
+            "caloric Value": 250,
+            "Fat": 9.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Rava Kesari (Semolina Dessert)",
+            "caloric Value": 225,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Neer Dosa",
+            "caloric Value": 120,
+            "Fat": 4.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Hyderabadi Biryani",
+            "caloric Value": 425,
+            "Fat": 18.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Sankranthi Pongal",
+            "caloric Value": 225,
+            "Fat": 8.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Kodi Kura (Chicken Curry)",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Mirchi ka Salan",
+            "caloric Value": 200,
+            "Fat": 14.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Bagara Baingan",
+            "caloric Value": 225,
+            "Fat": 16.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Telangana Pesarattu (Green Gram Pancake)",
+            "caloric Value": 225,
+            "Fat": 10.0,
+            "Protein": 11.0
+        },
+        {
+            "food": "Chutney (Peanut or Tamarind)",
+            "caloric Value": 75,
+            "Fat": 6.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Jowar Roti with Curry",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Kerala Sadya (Banana Leaf Meal)",
+            "caloric Value": 650,
+            "Fat": 25.0,
+            "Protein": 13.0
+        },
+        {
+            "food": "Appam with Stew",
+            "caloric Value": 300,
+            "Fat": 11.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Puttu with Kadala Curry",
+            "caloric Value": 300,
+            "Fat": 12.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Kerala Fish Curry",
+            "caloric Value": 300,
+            "Fat": 16.0,
+            "Protein": 23.0
+        },
+        {
+            "food": "Beef Fry",
+            "caloric Value": 350,
+            "Fat": 20.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Chemmeen (Prawn) Curry",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 27.0
+        },
+        {
+            "food": "Kalan",
+            "caloric Value": 225,
+            "Fat": 11.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Thoran (Vegetable Stir Fry)",
+            "caloric Value": 175,
+            "Fat": 8.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Mutton Biryani",
+            "caloric Value": 500,
+            "Fat": 20.0,
+            "Protein": 23.0
+        },
+        {
+            "food": "Mutton Rogan Josh",
+            "caloric Value": 425,
+            "Fat": 22.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Mutton Korma",
+            "caloric Value": 425,
+            "Fat": 25.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Mutton Keema",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Mutton Curry",
+            "caloric Value": 400,
+            "Fat": 22.0,
+            "Protein": 27.0
+        },
+        {
+            "food": "Mutton Seekh Kebab",
+            "caloric Value": 300,
+            "Fat": 15.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Mutton Shami Kebab",
+            "caloric Value": 300,
+            "Fat": 14.0,
+            "Protein": 24.0
+        },
+        {
+            "food": "Mutton Nihari",
+            "caloric Value": 500,
+            "Fat": 28.0,
+            "Protein": 34.0
+        },
+        {
+            "food": "Chicken Biryani",
+            "caloric Value": 425,
+            "Fat": 18.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Butter Chicken",
+            "caloric Value": 500,
+            "Fat": 24.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Chicken Tikka",
+            "caloric Value": 300,
+            "Fat": 16.0,
+            "Protein": 26.0
+        },
+        {
+            "food": "Chicken Korma",
+            "caloric Value": 425,
+            "Fat": 22.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Chicken Curry",
+            "caloric Value": 375,
+            "Fat": 20.0,
+            "Protein": 26.0
+        },
+        {
+            "food": "Chicken Seekh Kebab",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Chicken Shawarma",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 23.0
+        },
+        {
+            "food": "Chicken Pakora",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 20.0
+        },
+        {
+            "food": "Fish Curry",
+            "caloric Value": 300,
+            "Fat": 15.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Prawn Masala",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Grilled Fish",
+            "caloric Value": 250,
+            "Fat": 12.0,
+            "Protein": 23.0
+        },
+        {
+            "food": "Fish Fry",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 23.0
+        },
+        {
+            "food": "Fish Tikka",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 26.0
+        },
+        {
+            "food": "Mussels Curry",
+            "caloric Value": 300,
+            "Fat": 18.0,
+            "Protein": 24.0
+        },
+        {
+            "food": "Prawn Biryani",
+            "caloric Value": 450,
+            "Fat": 22.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Clam Curry",
+            "caloric Value": 250,
+            "Fat": 10.0,
+            "Protein": 23.0
+        },
+        {
+            "food": "Bibimbap",
+            "caloric Value": 490,
+            "Fat": 12.0,
+            "Protein": 17.0
+        },
+        {
+            "food": "Kimchi Jjigae",
+            "caloric Value": 220,
+            "Fat": 8.0,
+            "Protein": 14.0
+        },
+        {
+            "food": "Bulgogi",
+            "caloric Value": 290,
+            "Fat": 10.0,
+            "Protein": 26.0
+        },
+        {
+            "food": "Tteokbokki",
+            "caloric Value": 310,
+            "Fat": 6.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Samgyeopsal (Grilled Pork Belly)",
+            "caloric Value": 520,
+            "Fat": 42.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Japchae",
+            "caloric Value": 200,
+            "Fat": 6.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Kimchi Fried Rice",
+            "caloric Value": 430,
+            "Fat": 14.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Haemul Pajeon (Seafood Pancake)",
+            "caloric Value": 290,
+            "Fat": 12.0,
+            "Protein": 14.0
+        },
+        {
+            "food": "Jajangmyeon",
+            "caloric Value": 600,
+            "Fat": 20.0,
+            "Protein": 15.0
+        },
+        {
+            "food": "Dak Galbi (Spicy Stir-fried Chicken)",
+            "caloric Value": 450,
+            "Fat": 15.0,
+            "Protein": 35.0
+        },
+        {
+            "food": "Butter Chicken",
+            "caloric Value": 490,
+            "Fat": 33.0,
+            "Protein": 32.0
+        },
+        {
+            "food": "Sarson Ka Saag",
+            "caloric Value": 220,
+            "Fat": 11.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Makki Di Roti",
+            "caloric Value": 200,
+            "Fat": 5.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Chole Bhature",
+            "caloric Value": 450,
+            "Fat": 14.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Dal Makhani",
+            "caloric Value": 320,
+            "Fat": 14.0,
+            "Protein": 14.0
+        },
+        {
+            "food": "Amritsari Kulcha",
+            "caloric Value": 290,
+            "Fat": 9.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Paneer Tikka",
+            "caloric Value": 280,
+            "Fat": 16.0,
+            "Protein": 14.0
+        },
+        {
+            "food": "Aloo Paratha",
+            "caloric Value": 270,
+            "Fat": 12.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Lassi (Sweet or Salted)",
+            "caloric Value": 250,
+            "Fat": 10.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Amritsari Fish Fry",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Orange Juice",
+            "caloric Value": 110,
+            "Fat": 0.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Apple Juice",
+            "caloric Value": 120,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Grape Juice",
+            "caloric Value": 150,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Pineapple Juice",
+            "caloric Value": 130,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Watermelon Juice",
+            "caloric Value": 90,
+            "Fat": 0.0,
+            "Protein": 1.0
+        },
+        {
+            "food": "Pomegranate Juice",
+            "caloric Value": 135,
+            "Fat": 0.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Mango Juice",
+            "caloric Value": 150,
+            "Fat": 0.5,
+            "Protein": 1.5
+        },
+        {
+            "food": "Carrot Juice",
+            "caloric Value": 90,
+            "Fat": 0.2,
+            "Protein": 2.0
+        },
+        {
+            "food": "Beetroot Juice",
+            "caloric Value": 100,
+            "Fat": 0.2,
+            "Protein": 2.0
+        },
+        {
+            "food": "Greek Salad",
+            "caloric Value": 150,
+            "Fat": 10.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Caesar Salad",
+            "caloric Value": 240,
+            "Fat": 18.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Garden Salad",
+            "caloric Value": 90,
+            "Fat": 4.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Chicken Salad",
+            "caloric Value": 290,
+            "Fat": 15.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Fruit Salad",
+            "caloric Value": 120,
+            "Fat": 1.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Quinoa Salad",
+            "caloric Value": 220,
+            "Fat": 8.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Tuna Salad",
+            "caloric Value": 270,
+            "Fat": 15.0,
+            "Protein": 22.0
+        },
+        {
+            "food": "Coleslaw",
+            "caloric Value": 200,
+            "Fat": 12.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Caprese Salad (Tomato & Mozzarella)",
+            "caloric Value": 190,
+            "Fat": 14.0,
+            "Protein": 8.0
+        },
+        {
+            "food": "Chickpea Salad",
+            "caloric Value": 230,
+            "Fat": 6.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Grilled Cheese Sandwich",
+            "caloric Value": 320,
+            "Fat": 16.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Club Sandwich",
+            "caloric Value": 450,
+            "Fat": 22.0,
+            "Protein": 25.0
+        },
+        {
+            "food": "Veggie Sandwich",
+            "caloric Value": 250,
+            "Fat": 8.0,
+            "Protein": 7.0
+        },
+        {
+            "food": "Chicken Sandwich",
+            "caloric Value": 380,
+            "Fat": 12.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Egg Salad Sandwich",
+            "caloric Value": 300,
+            "Fat": 14.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Tuna Sandwich",
+            "caloric Value": 350,
+            "Fat": 18.0,
+            "Protein": 20.0
+        },
+        {
+            "food": "BLT (Bacon, Lettuce, Tomato)",
+            "caloric Value": 400,
+            "Fat": 20.0,
+            "Protein": 15.0
+        },
+        {
+            "food": "Turkey Sandwich",
+            "caloric Value": 340,
+            "Fat": 8.0,
+            "Protein": 28.0
+        },
+        {
+            "food": "Peanut Butter & Jelly Sandwich",
+            "caloric Value": 380,
+            "Fat": 16.0,
+            "Protein": 10.0
+        },
+        {
+            "food": "Caprese Sandwich (Mozzarella & Tomato)",
+            "caloric Value": 300,
+            "Fat": 14.0,
+            "Protein": 12.0
+        },
+        {
+            "food": "Milk Chocolate",
+            "caloric Value": 220,
+            "Fat": 13.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Dark Chocolate (70-85%)",
+            "caloric Value": 240,
+            "Fat": 15.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "White Chocolate",
+            "caloric Value": 230,
+            "Fat": 14.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Chocolate Truffle",
+            "caloric Value": 250,
+            "Fat": 17.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Chocolate Bar with Nuts",
+            "caloric Value": 260,
+            "Fat": 18.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Caramel-filled Chocolate",
+            "caloric Value": 240,
+            "Fat": 12.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Chocolate-coated Almonds",
+            "caloric Value": 260,
+            "Fat": 18.0,
+            "Protein": 5.0
+        },
+        {
+            "food": "Mint Chocolate",
+            "caloric Value": 230,
+            "Fat": 14.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Ruby Chocolate",
+            "caloric Value": 220,
+            "Fat": 12.0,
+            "Protein": 2.0
+        },
+        {
+            "food": "Vegan Dark Chocolate",
+            "caloric Value": 230,
+            "Fat": 14.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Creme Brulee",
+            "caloric Value": 290,
+            "Fat": 20.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Fruit Custard",
+            "caloric Value": 150,
+            "Fat": 5.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Ice Cream",
+            "caloric Value": 200,
+            "Fat": 11.0,
+            "Protein": 3.0
+        },
+        {
+            "food": "Cheesecake",
+            "caloric Value": 310,
+            "Fat": 21.0,
+            "Protein": 6.0
+        },
+        {
+            "food": "Tiramisu",
+            "caloric Value": 240,
+            "Fat": 15.0,
+            "Protein": 4.0
+        },
+        {
+            "food": "Brownie",
+            "caloric Value": 280,
+            "Fat": 14.0,
+            "Protein": 3.0
+        }
+    ]
+}

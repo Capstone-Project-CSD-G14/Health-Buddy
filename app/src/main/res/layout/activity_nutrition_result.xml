@@ -1,0 +1,121 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Food Details TextView -->
+    <TextView
+        android:id="@+id/tvFoodDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="#2B2B2B"
+        android:paddingBottom="16dp"
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:elevation="4dp"
+        android:layout_marginBottom="8dp"
+        android:text="Food Details" />
+
+    <!-- Nutritional Needs TextView -->
+    <TextView
+        android:id="@+id/tvNutritionalNeeds"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#2B2B2B"
+        android:paddingBottom="16dp"
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:elevation="4dp"
+        android:layout_marginBottom="8dp"
+        android:text="Nutritional Needs" />
+
+    <!-- Health Suggestions TextView -->
+    <TextView
+        android:id="@+id/tvHealthSuggestions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:textColor="#2B2B2B"
+        android:paddingBottom="16dp"
+        android:background="#FFFFFF"
+        android:padding="12dp"
+        android:elevation="4dp"
+        android:layout_marginBottom="16dp"
+        android:text="Health Suggestions" />
+
+    <!-- Toggle Button for Water Intake Notifications -->
+    <ToggleButton
+        android:id="@+id/toggleWaterNotification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textOff="Enable Water Notifications"
+        android:textOn="Disable Water Notifications"
+        android:textColor="#FFFFFF"
+        android:background="@android:color/holo_blue_light"
+        android:padding="12dp"
+        android:layout_marginTop="16dp"
+        android:drawablePadding="8dp" />
+
+    <!-- Toggle Button for Health Condition Notifications -->
+    <ToggleButton
+        android:id="@+id/toggleHealthNotification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textOff="Enable Health Notifications"
+        android:textOn="Disable Health Notifications"
+        android:textColor="#FFFFFF"
+        android:background="@android:color/holo_green_light"
+        android:padding="12dp"
+        android:layout_marginTop="16dp"
+        android:drawablePadding="8dp" />
+
+    <!-- Medicine Notification Buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="16dp"
+        android:gravity="center">
+
+        <ToggleButton
+            android:id="@+id/toggleMorningMedicine"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textOff="Morning Medicine"
+            android:textOn="Disable"
+            android:textColor="#FFFFFF"
+            android:background="@android:color/holo_orange_light"
+            android:padding="12dp"
+            android:drawablePadding="8dp" />
+
+        <ToggleButton
+            android:id="@+id/toggleAfternoonMedicine"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textOff="Afternoon Medicine"
+            android:textOn="Disable"
+            android:textColor="#FFFFFF"
+            android:background="@android:color/holo_orange_light"
+            android:padding="12dp"
+            android:drawablePadding="8dp" />
+
+        <ToggleButton
+            android:id="@+id/toggleNightMedicine"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textOff="Night Medicine"
+            android:textOn="Disable"
+            android:textColor="#FFFFFF"
+            android:background="@android:color/holo_orange_light"
+            android:padding="12dp"
+            android:drawablePadding="8dp" />
+    </LinearLayout>
+</LinearLayout>

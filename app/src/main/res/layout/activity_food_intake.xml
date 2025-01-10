@@ -1,0 +1,100 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- ScrollView containing food-related UI elements -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <!-- Container for dynamically added AutoCompleteTextViews -->
+            <LinearLayout
+                android:id="@+id/food_container"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:orientation="vertical"
+                android:padding="12dp"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <!-- AutoCompleteTextView for selecting food -->
+            <AutoCompleteTextView
+                android:id="@+id/auto_complete_food"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="16dp"
+                android:layout_marginTop="16dp"
+                android:backgroundTint="#E1F5FE"
+                android:hint="Type food name"
+                android:padding="12dp"
+                android:textColor="@color/white"
+                android:textColorHint="#757575"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/food_container" />
+
+            <!-- Button to add more food items -->
+            <Button
+                android:id="@+id/btn_add_food"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:backgroundTint="#2B2B2B"
+                android:text="Add Food"
+                android:textColor="#FFFFFF"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/auto_complete_food" />
+
+            <!-- Spinner for selecting health conditions -->
+            <Spinner
+                android:id="@+id/spinner_health_conditions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:backgroundTint="#E1F5FE"
+                android:padding="12dp"
+                app:layout_constraintTop_toBottomOf="@id/btn_add_food" />
+
+            <!-- Horizontal layout for buttons -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center"
+                android:layout_marginTop="16dp"
+                app:layout_constraintTop_toBottomOf="@id/spinner_health_conditions">
+
+                <!-- Previous button -->
+                <Button
+                    android:id="@+id/btn_previous"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="8dp"
+                    android:text="Previous"
+                    android:backgroundTint="#2B2B2B"
+                    android:textColor="#FFFFFF" />
+
+                <!-- Next button -->
+                <Button
+                    android:id="@+id/btn_next"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:text="Next"
+                    android:backgroundTint="#2B2B2B"
+                    android:textColor="#FFFFFF" />
+            </LinearLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </ScrollView>
+</LinearLayout>
